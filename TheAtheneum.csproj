@@ -71,6 +71,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -79,7 +80,23 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Courtyard.html" />
+    <Content Include="courtyard.png" />
+    <Content Include="courtyard\CourtyardChristmas2024.png" />
+    <Content Include="courtyard\indeediconcur.png" />
+    <Content Include="courtyard\oldpeople.png" />
+    <Content Include="courtyard\Pasted image 20250710201856.png" />
+    <Content Include="courtyard\Pasted image 20250710201908.png" />
+    <Content Include="courtyard\Pasted image 20250710211254.png" />
+    <Content Include="courtyard\people.png" />
+    <Content Include="courtyard\terror rot.png" />
+    <Content Include="courtyard\tewst.png" />
+    <Content Include="courtyard\therot.png" />
+    <Content Include="flagoftheatheneum.png" />
+    <Content Include="HEREANDNOW.png" />
+    <Content Include="script.js" />
     <Content Include="simple-tooltips.css" />
+    <Content Include="page.html" />
     <Content Include="wiki.css" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
