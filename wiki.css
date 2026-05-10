@@ -10,6 +10,13 @@
     gap: 5px;
     padding-bottom: 7.5px;
 }
+.page-atheneum a {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-bottom: 7.5px;
+}
 .content {
     text-align: left;
     border: 1px solid #999;
